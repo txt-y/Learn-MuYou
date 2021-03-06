@@ -1,0 +1,3 @@
+INDEX_SIGHT_TOP_KEY = 'index_top'
+INDEX_SIGHT_HOT_KEY = 'index_hot'
+INDEX_SIGHT_TIMEOUT = 60 * 60 * 1
